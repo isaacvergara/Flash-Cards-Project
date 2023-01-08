@@ -1,0 +1,7 @@
+Análisis de requisitos de la aplicación:
+  - Cada usuario deberá poder hacer login.
+  - Se crean diferentes temáticas y se añaden flashcards a estas temáticas.
+  - Los usuarios pueden crear sus propias temáticas.
+  - Se pueden crear flashcards con imágenes.
+  - Se pueden editar los flashcards.
+  - Se pueden votar los flashcards.
